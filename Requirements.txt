@@ -1,0 +1,7 @@
+pytesseract
+mss
+pillow
+requests
+beautifulsoup4
+pywin32
+pyautogui
